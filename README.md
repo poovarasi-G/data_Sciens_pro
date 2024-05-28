@@ -1,4 +1,5 @@
 Health and Well-Being Sensors
+
                 1.Light Dependent Resistor (LDR) for Eye Protection
                      Description: Changes resistance with light intensity.
                      Application: Protects eyes by adjusting lens tint or triggering alerts in high light conditions.
